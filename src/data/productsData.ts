@@ -106,7 +106,6 @@ Pour les installations de grande capacité, il est possible de connecter jusqu�
   { label: "Type de régulateur", value: "MPPT" },
   { label: "Poids Net", value: "25 KG" },
   { label: "Type d'onduleur", value: "Hybride Raccordé" },
-  { label: "Garantie", value: "2 ans légales en magasin / 10 ans fabricant" },
   { label: "Tension de batterie", value: "48 V" },
   { label: "Puissance d'entrée Max (PV)", value: "7800W" },
   { label: "Tension de sortie AC", value: "230VAC ± 5%" },
@@ -166,7 +165,6 @@ Idéal pour :
   { label: "Type de régulateur", value: "MPPT" },
   { label: "Poids Net", value: "13 KG" },
   { label: "Type d'onduleur", value: "Hybride Non Raccordé" },
-  { label: "Garantie", value: "2 ans légales en magasin" },
   { label: "Tension de batterie", value: "48 V" },
   { label: "Puissance d'entrée Max (PV)", value: "6000W" },
   { label: "Courant de charge AC", value: "80 A" },
@@ -210,7 +208,6 @@ Enfin, il dispose de fonctionnalités intelligentes comme le diagnostic des pann
 `,
 fiche: [
   { label: "Type de batterie", value: "LiTHIUM-LFP" },
-  { label: "Garantie", value: "2 ans légales en magasin / 10 ans fabricant" },
   { label: "Courant de charge MPPT", value: "16 A / TRACKER" },
   { label: "Tension d'entrée Max PV", value: "600 Vdc" },
   { label: "Puissance de sortie (AC)", value: "6000W" },
@@ -258,7 +255,6 @@ Les micro-onduleurs SigenMicro offrent une solution fiable et intelligente pour 
 `,
 
     fiche: [
-  { label: "Garantie", value: "25 ans fabricant" },
   { label: "Puissance d'entrée Max (PV)", value: "670W x 2" },
   { label: "Puissance de sortie (AC)", value: "1000W" },
   { label: "Mode de communication", value: "WiFi" },
@@ -342,7 +338,6 @@ Fiable, évolutif et facile à intégrer dans une installation photovoltaïque m
     fiche: [
   { label: "Poids net (Kg)", value: "25" },
   { label: "Type d'onduleur", value: "Hybride raccordé" },
-  { label: "Garantie", value: "5 ans fabricant"},
   { label: "Tension de batterie", value: "48 V" },
   { label: "Puissance d'entrée Max (PV)", value: "8000W"},
   { label: "Puissance de sortie (AC)", value: "6000W"},
@@ -384,7 +379,6 @@ Facile à installer et à configurer, il dispose également d’un système de s
     fiche: [
   { label: "Poids Net", value: "21 KG" },
   { label: "Type d'onduleur", value: "Onduleur AC coupling" },
-  { label: "Garantie", value: "5 ans fabricant" },
   { label: "Tension de batterie", value: "48 V" },
   { label: "Puissance de sortie (AC)", value: "3000W" },
   { label: "Dimensions", value: "566 × 394 × 173 mm" },
