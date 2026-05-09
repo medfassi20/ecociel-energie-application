@@ -58,14 +58,14 @@ C'est une solution idéale pour améliorer l'efficacité énergétique et rédui
     ],
 
     downloads: [
-      { name: "DS_SG3.0-6.0-RS_Sungrow", link: "../files/fichier-technique-sg3-0-6-0-rs-sungrow.pdf" },
-{ name: "Manuel_SGxRS_Sungrow_FR", link: "/files/manuel-sgxrs-sungrow-fr.pdf" },
-{ name: "Garantie_limitee_Sungrow_FR", link: "/files/garantie-limitee-sungrow-fr.pdf"},
-{ name: "SUNGROW_Quick_Installation_Guide", link: "/files/sungrow-quick-installation-guide.pdf"},
-{ name: "Certificat VDE Sungrow", link: "/files/certificat-vfr-2019-onduleur-sungrow.pdf"},
-{ name: "Notice_Smart_Meter_mono_Sungrow", link: "/files/notice-smart-meter-mono-sungrow-en.pdf"},
-{ name: "DS_Compteur_monophase_Sungrow", link: "/files/datasheet-compteur-energie-monophase-sungrow.pdf"},
-{ name: "Certificat EN 50549", link: "/files/certificat-en50549-1-sgxrs-onduleur-sungrow-fr.pdf"}
+      { name: "DS_SG3.0-6.0-RS_Sungrow", link: "../hello.txt" },
+{ name: "Manuel_SGxRS_Sungrow_FR", link: "/docs/manuel-sgxrs-sungrow-fr.pdf" },
+{ name: "Garantie_limitee_Sungrow_FR", link: "/docs/garantie-limitee-sungrow-fr.pdf"},
+{ name: "SUNGROW_Quick_Installation_Guide", link: "/docs/sungrow-quick-installation-guide.pdf"},
+{ name: "Certificat VDE Sungrow", link: "/docs/certificat-vfr-2019-onduleur-sungrow.pdf"},
+{ name: "Notice_Smart_Meter_mono_Sungrow", link: "/docs/notice-smart-meter-mono-sungrow-en.pdf"},
+{ name: "DS_Compteur_monophase_Sungrow", link: "/docs/datasheet-compteur-energie-monophase-sungrow.pdf"},
+{ name: "Certificat EN 50549", link: "/docs/certificat-en50549-1-sgxrs-onduleur-sungrow-fr.pdf"}
     ],
   },
 
@@ -132,13 +132,13 @@ Pour les installations de grande capacité, il est possible de connecter jusqu�
 ],
 
     downloads: [
-      { name: "DS_SUN_3.6-6k-SG03LP1_DEYE", link: "/files/ds-sun-3-6-6k-sg03lp1-deye.pdf" },
-{ name: "Deye_Compa_LiBat", link: "/files/deye-compa-libat.pdf" },
-{ name: "Manual_Hybrid inverter_mono_DEYE", link: "/files/manual-hybrid-inverter-mono-deye.pdf"},
-{ name: "Cert. de conformité_EN_SUN_LP1", link: "/files/certificat-conformite-en50549-1-sun-lp1.pdf"},
-{ name: "Fiche Technique FR", link: "/files/ft-deye-mono.pdf"},
-{ name: "Manuel FR", link: "/files/manuel-deye-mono.pdf"},
-{ name: "DS - 3.3-10k", link: "/files/sun-3-6-10k-sg05lp1-eu.pdf"}
+      { name: "DS_SUN_3.6-6k-SG03LP1_DEYE", link: "/docs/ds-sun-3-6-6k-sg03lp1-deye.pdf" },
+{ name: "Deye_Compa_LiBat", link: "/docs/deye-compa-libat.pdf" },
+{ name: "Manual_Hybrid inverter_mono_DEYE", link: "/docs/manual-hybrid-inverter-mono-deye.pdf"},
+{ name: "Cert. de conformité_EN_SUN_LP1", link: "/docs/certificat-conformite-en50549-1-sun-lp1.pdf"},
+{ name: "Fiche Technique FR", link: "/docs/ft-deye-mono.pdf"},
+{ name: "Manuel FR", link: "/docs/manuel-deye-mono.pdf"},
+{ name: "DS - 3.3-10k", link: "/docs/sun-3-6-10k-sg05lp1-eu.pdf"}
     ],
   },
   {
@@ -188,9 +188,9 @@ Idéal pour :
 ],
 
     downloads: [
-     { name: "Manuel SPF3000-5000 ES Growatt", link: "/files/manuel-onduleur-spf5000-es-growatt-fr.pdf" },
-{ name: "DS_Growatt-SPF3500_5000-ES-FR", link: "/files/ds-spf-3500-5000-es-fr.pdf" },
-{ name: "Param-Pylontech-Growatt-SPF", link: "/files/param-pylontech-growatt-spf.pdf"},
+     { name: "Manuel SPF3000-5000 ES Growatt", link: "/docs/manuel-onduleur-spf5000-es-growatt-fr.pdf" },
+{ name: "DS_Growatt-SPF3500_5000-ES-FR", link: "/docs/ds-spf-3500-5000-es-fr.pdf" },
+{ name: "Param-Pylontech-Growatt-SPF", link: "/docs/param-pylontech-growatt-spf.pdf"},
   ]},
   {
     id: 3,
@@ -220,14 +220,14 @@ fiche: [
   { label: "Phases", value: "Monophasé" },
 ],
 downloads: [
-      { name: "Cer_HYXI_Hybrid_Mono", link: "/files/certificat-hyx-h3-8k-hs-en50549-1-fr.pdf" },
-{ name: "DS_HYXI_DCS", link: "/files/ds-dcs-datasheet-v1-3-20250731-fr-1.pdf" },
-{ name: "DS_HYXI_Hybrid_mono", link: "/files/ds-hyx-h3-8k-hs-datasheet-v1-3-20250731-fr.pdf"},
-{ name: "DC_HYXI_BDU_BATTERIE", link: "/files/ds-hyx-e50-500-h2-datasheet-v1-1-20250718-fr3.pdf"},
-{ name: "Manuel_HYXI_BDU_BAT", link: "/files/manuel-bdu-batterie-hyx-e50-500-h2-user-manual-v1-0-2025-fr.pdf"},
-{ name: "Manuel_HYXI_Hybrid_Mono", link: "/files/manuel-onduleur-hyx-h3-8k-hs-user-manual-v1-4-202407-fr.pdf"},
-{ name: "Schéma_HYXI_Hybrid", link: "/files/hyxipower-hybrid-6k-2stringpv.pdf"},
-{ name: "Schéma_HYXI_Compteur", link: "/files/hyxipower-mono-compteur-2008-onduleur3-6k.pdf"}
+      { name: "Cer_HYXI_Hybrid_Mono", link: "/docs/certificat-hyx-h3-8k-hs-en50549-1-fr.pdf" },
+{ name: "DS_HYXI_DCS", link: "/docs/ds-dcs-datasheet-v1-3-20250731-fr-1.pdf" },
+{ name: "DS_HYXI_Hybrid_mono", link: "/docs/ds-hyx-h3-8k-hs-datasheet-v1-3-20250731-fr.pdf"},
+{ name: "DC_HYXI_BDU_BATTERIE", link: "/docs/ds-hyx-e50-500-h2-datasheet-v1-1-20250718-fr3.pdf"},
+{ name: "Manuel_HYXI_BDU_BAT", link: "/docs/manuel-bdu-batterie-hyx-e50-500-h2-user-manual-v1-0-2025-fr.pdf"},
+{ name: "Manuel_HYXI_Hybrid_Mono", link: "/docs/manuel-onduleur-hyx-h3-8k-hs-user-manual-v1-4-202407-fr.pdf"},
+{ name: "Schéma_HYXI_Hybrid", link: "/docs/hyxipower-hybrid-6k-2stringpv.pdf"},
+{ name: "Schéma_HYXI_Compteur", link: "/docs/hyxipower-mono-compteur-2008-onduleur3-6k.pdf"}
     ],
   },
   {
@@ -274,9 +274,9 @@ Les micro-onduleurs SigenMicro offrent une solution fiable et intelligente pour 
 ],
 
     downloads: [
-      { name: "DS_SigenMicro", link: "/files/ds-sigen-micro-inverter-compressed.pdf" },
-{ name: "Manuel_SigenMicro", link: "/files/sigenmicro-installation-manual-compressed.pdf" },
-{ name: "EN50549 SIGENMICRO", link: "/files/en-50549-sigenmicro-compressed.pdf"},
+      { name: "DS_SigenMicro", link: "/docs/ds-sigen-micro-inverter-compressed.pdf" },
+{ name: "Manuel_SigenMicro", link: "/docs/sigenmicro-installation-manual-compressed.pdf" },
+{ name: "EN50549 SIGENMICRO", link: "/docs/en-50549-sigenmicro-compressed.pdf"},
   ]},
   {
     id: 5,
@@ -311,14 +311,14 @@ Grâce à sa technologie avancée et à ses protections intégrées, SigenStor g
 ],
 
     downloads: [
-      { name: "FT Batteries SIGENERGY", link: "/files/sigen-battery-2.pdf" },
-{ name: "DS_EC_SP_Monophasé_SIGENERGY", link: "/files/fiche-technique-sigen-energy-controller-sp.pdf" },
-{ name: "DS_Gateway_HomeMax_SIGENERGY", link: "/files/fiche-technique-sigen-energy-gateway-homemax.pdf"},
-{ name: "Flyer_Solution Sigenergy", link: "/files/en-50549-sigenmicro-compressed.pdf"},
-{ name: "Garantie SigenStor 1", link: "/files/garantie-1.pdf"},
-{ name: "Garantie SigenStor 2", link: "/files/garantie-2.pdf"},
-{ name: "Garantie SigenStor 3", link: "/files/garantie-3.pdf"},
-{ name: "Manuel SIGENSTOR Mono", link: "/files/manuel-utilisation-sigenstor-monophase.pdf"}
+      { name: "FT Batteries SIGENERGY", link: "/docs/sigen-battery-2.pdf" },
+{ name: "DS_EC_SP_Monophasé_SIGENERGY", link: "/docs/fiche-technique-sigen-energy-controller-sp.pdf" },
+{ name: "DS_Gateway_HomeMax_SIGENERGY", link: "/docs/fiche-technique-sigen-energy-gateway-homemax.pdf"},
+{ name: "Flyer_Solution Sigenergy", link: "/docs/en-50549-sigenmicro-compressed.pdf"},
+{ name: "Garantie SigenStor 1", link: "/docs/garantie-1.pdf"},
+{ name: "Garantie SigenStor 2", link: "/docs/garantie-2.pdf"},
+{ name: "Garantie SigenStor 3", link: "/docs/garantie-3.pdf"},
+{ name: "Manuel SIGENSTOR Mono", link: "/docs/manuel-utilisation-sigenstor-monophase.pdf"}
   ]},
   {
     id: 6,
@@ -352,13 +352,13 @@ Fiable, évolutif et facile à intégrer dans une installation photovoltaïque m
 ],
 
     downloads: [
-      { name: "Hybrid-Parallel-Connection", link: "/files/hybrid-parallel-connection.pdf" },
-{ name: "Wifi_Quick_Guidance_LuxPower", link: "/files/wifi-quick-guidance-luxpower.pdf" },
-{ name: "Compa_List_Batterie_LuxPower", link: "/files/luxpower-compatible-list-lxp-3-6ksna-acs3600-230826.pdf"},
-{ name: "DS_LXP_3-6K_LuxPower", link: "/files/ds-lxp-3-6k-luxpower.pdf"},
-{ name: "Cert_EN50549-1_EN_LuxPower_LXP", link: "/files/cert-en50549-1-en-lxp.pdf"},
-{ name: "Cert_UTE_VDE_VFR_FR_LuxPower_LXP", link: "/files/cert-ute-c15-712-1-vde0126-vfr2019-fr-lxp.pdf"},
-{ name: "LUXPOWER FR", link: "/files/luxpower-fr-1.pdf"}
+      { name: "Hybrid-Parallel-Connection", link: "/docs/hybrid-parallel-connection.pdf" },
+{ name: "Wifi_Quick_Guidance_LuxPower", link: "/docs/wifi-quick-guidance-luxpower.pdf" },
+{ name: "Compa_List_Batterie_LuxPower", link: "/docs/luxpower-compatible-list-lxp-3-6ksna-acs3600-230826.pdf"},
+{ name: "DS_LXP_3-6K_LuxPower", link: "/docs/ds-lxp-3-6k-luxpower.pdf"},
+{ name: "Cert_EN50549-1_EN_LuxPower_LXP", link: "/docs/cert-en50549-1-en-lxp.pdf"},
+{ name: "Cert_UTE_VDE_VFR_FR_LuxPower_LXP", link: "/docs/cert-ute-c15-712-1-vde0126-vfr2019-fr-lxp.pdf"},
+{ name: "LUXPOWER FR", link: "/docs/luxpower-fr-1.pdf"}
   ]},
   {
     id: 7,
@@ -393,9 +393,9 @@ Facile à installer et à configurer, il dispose également d’un système de s
 ],
 
     downloads: [
-     { name: "Manuel-FR-ME3000SP-Sofar", link: "/files/manuel-utilisateur-me3000sp-sofar-1.pdf" },
-{ name: "ME 3000SP_France_Cert", link: "/files/me-3000sp-certificate-en50549-1-2024-10-11-en-eu.pdf" },
-{ name: "Datasheet_ME 3000-SP_FR", link: "/files/me-3000-sp-fr.pdf"},
+     { name: "Manuel-FR-ME3000SP-Sofar", link: "/docs/manuel-utilisateur-me3000sp-sofar-1.pdf" },
+{ name: "ME 3000SP_France_Cert", link: "/docs/me-3000sp-certificate-en50549-1-2024-10-11-en-eu.pdf" },
+{ name: "Datasheet_ME 3000-SP_FR", link: "/docs/me-3000-sp-fr.pdf"},
   ]},
   {
     id: 8,
@@ -424,12 +424,12 @@ Compatible avec les réseaux intelligents modernes, il prend en charge les derni
 ],
 
     downloads: [
-     { name: "DS-Micro-onduleur-Enphase-IQ8-FR", link: "/files/iq8se-ds-0074-01-fr-int-2023-03-29.pdf" },
-{ name: "Schéma de branchement IQ8", link: "/files/schema-iq8.pdf" },
-{ name: "Important_IQ8_Series_FR_DIGITAL", link: "/files/important-iq8-series-fr-digital.pdf"},
-{ name: "IQ8PV 14A-MC4-Micro-Manual-FR", link: "/files/iq8pv-14a-mc4-micro-manual-fr.pdf"},
-{ name: "IQ8PV-14A-QIG-FR-INT", link: "/files/iq8pv-14a-qig-fr-int.pdf"},
-{ name: "IQ8SE-14A-DS-FR", link: "/files/iq8se-14a-ds-fr.pdf"},
-{ name: "IQ8_Schema unifilaire_Enphase", link: "/files/iq8pv-14a-and-iq8x-sld-installation-manual-fr.pdf"},
+     { name: "DS-Micro-onduleur-Enphase-IQ8-FR", link: "/docs/iq8se-ds-0074-01-fr-int-2023-03-29.pdf" },
+{ name: "Schéma de branchement IQ8", link: "/docs/schema-iq8.pdf" },
+{ name: "Important_IQ8_Series_FR_DIGITAL", link: "/docs/important-iq8-series-fr-digital.pdf"},
+{ name: "IQ8PV 14A-MC4-Micro-Manual-FR", link: "/docs/iq8pv-14a-mc4-micro-manual-fr.pdf"},
+{ name: "IQ8PV-14A-QIG-FR-INT", link: "/docs/iq8pv-14a-qig-fr-int.pdf"},
+{ name: "IQ8SE-14A-DS-FR", link: "/docs/iq8se-14a-ds-fr.pdf"},
+{ name: "IQ8_Schema unifilaire_Enphase", link: "/docs/iq8pv-14a-and-iq8x-sld-installation-manual-fr.pdf"},
   ]}
 ]
