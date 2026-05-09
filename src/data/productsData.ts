@@ -58,7 +58,7 @@ C'est une solution idéale pour améliorer l'efficacité énergétique et rédui
     ],
 
     downloads: [
-      { name: "DS_SG3.0-6.0-RS_Sungrow", link: "../hello.txt" },
+      { name: "DS_SG3.0-6.0-RS_Sungrow", link: "/docs/fichier-technique-sg3-0-6-0-rs-sungrow.pdf" },
 { name: "Manuel_SGxRS_Sungrow_FR", link: "/docs/manuel-sgxrs-sungrow-fr.pdf" },
 { name: "Garantie_limitee_Sungrow_FR", link: "/docs/garantie-limitee-sungrow-fr.pdf"},
 { name: "SUNGROW_Quick_Installation_Guide", link: "/docs/sungrow-quick-installation-guide.pdf"},
