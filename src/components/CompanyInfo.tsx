@@ -98,25 +98,6 @@ export default function CompanyInfo() {
               et les entreprises.
             </p>
 
-            <div className="flex items-center gap-3 p-4 bg-amber-50 border border-amber-200 rounded-xl mb-8">
-              <div className="flex">
-                {[...Array(5)].map((_, i) => (
-                  <Star
-                    key={i}
-                    className="w-5 h-5 fill-amber-400 text-amber-400"
-                  />
-                ))}
-              </div>
-
-              <span className="text-amber-700 font-semibold">
-                5.0
-              </span>
-
-              <span className="text-amber-600 text-sm">
-                Google Reviews
-              </span>
-            </div>
-
            {/* 🗺️ GOOGLE MAPS */}
             <div className="rounded-2xl overflow-hidden shadow-lg border">
             <iframe
