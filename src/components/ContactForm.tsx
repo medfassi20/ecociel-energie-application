@@ -1,7 +1,7 @@
 import { useState, type FormEvent } from 'react';
 import { CheckCircle } from 'lucide-react';
 import { supabase } from '../lib/supabase';
-import emailjs from '@emailjs/browser';
+import emailjs from 'emailjs-com';
 
 const projectTypes = [
   'Installation panneaux solaires',
