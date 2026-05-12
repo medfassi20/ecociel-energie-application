@@ -149,7 +149,7 @@ export default function CompanyInfo() {
                   </p>
 
                   <a
-                    href="https://maps.google.com/?q=48%20K%20Lot%20Jihan%20I%20Rte%20Ain%20Chkef%20Fes%20Maroc"
+                    href="https://maps.google.com/?q=XX6C+C23, Ain Chqef"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-emerald-600 text-sm font-medium hover:underline mt-2 inline-block"
