@@ -8,6 +8,10 @@
 
 A modern web application built for EcoCiel, a solar energy company based in Fez, Morocco.
 
+## Preview
+
+![EcoCiel Preview](./screenshot.png)
+
 ## 🚀 Project Overview
 
 This application helps EcoCiel generate leads and showcase their solar energy services to potential clients.
