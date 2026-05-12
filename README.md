@@ -1,5 +1,11 @@
 # 🌿 EcoCiel Web App
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
 A modern web application built for EcoCiel, a solar energy company based in Fez, Morocco.
 
 ## 🚀 Project Overview
@@ -16,7 +22,8 @@ Users can:
 
 ## ⚙️ Tech Stack
 
-* React (Vite)
+* React.js
+* Next.js
 * Tailwind CSS
 * Supabase (Database)
 * Vercel (Deployment)
@@ -61,7 +68,7 @@ VITE_SUPABASE_ANON_KEY=your-key
 
 ---
 
-## 📈 Future Improvements
+## 📈 Next Features
 
 * Admin dashboard for leads
 * Email notifications
@@ -72,4 +79,4 @@ VITE_SUPABASE_ANON_KEY=your-key
 
 ## 👨‍💻 Author
 
-Developed as part of an internship project.
+Developed for a solar energy company project using React, Supabase and Vercel.
