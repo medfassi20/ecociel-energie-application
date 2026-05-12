@@ -117,18 +117,18 @@ export default function CompanyInfo() {
               </span>
             </div>
 
-            {/* 🗺️ GOOGLE MAPS */}
+           {/* 🗺️ GOOGLE MAPS */}
             <div className="rounded-2xl overflow-hidden shadow-lg border">
-              <iframe
-                src="https://www.google.com/maps?q=48%20K%20Lot%20Jihan%20I%20Rte%20Ain%20Chkef%20Fes%20Maroc&output=embed"
-                width="100%"
-                height="350"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                title="Localisation EcoCiel"
-              ></iframe>
+            <iframe
+              src="https://www.google.com/maps?q=EcoCiel%20Fes&output=embed"
+              width="100%"
+              height="350"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Localisation EcoCiel"
+            ></iframe>
             </div>
           </div>
 
@@ -140,16 +140,13 @@ export default function CompanyInfo() {
               <div className="flex gap-4">
                 <MapPin className="text-emerald-600" />
                 <div>
-                  <h3 className="font-semibold">
-                    Adresse
-                  </h3>
+                  <h3 className="font-semibold">Adresse</h3>
                   <p className="text-sm text-gray-600">
-                    48 K Lot Jihan I Rte Ain Chkef,
-                    30000 Fès, Maroc
+                    48 K Lot Jihan I Rte Ain Chkef, 30000 Fès, Maroc
                   </p>
 
                   <a
-                    href="https://maps.google.com/?q=XX6C+C23, Ain Chqef"
+                    href="https://www.google.com/maps/place/EcoCiel/@33.9610092,-5.0301414"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-emerald-600 text-sm font-medium hover:underline mt-2 inline-block"
@@ -158,8 +155,7 @@ export default function CompanyInfo() {
                   </a>
                 </div>
               </div>
-            </div>
-
+          </div>
             {/* Phone */}
             <div className="bg-gray-50 rounded-2xl p-6">
               <div className="flex gap-4">
