@@ -13,6 +13,7 @@ const projectTypes = [
 export default function ContactForm() {
   const [form, setForm] = useState({
     name: '',
+    email: '',
     phone: '',
     city: '',
     project_type: '',
@@ -25,7 +26,7 @@ export default function ContactForm() {
   const handleSubmit = async (e: FormEvent) => {
     e.preventDefault();
 
-    if (!form.name || !form.phone || !form.city || !form.project_type) {
+    if (!form.name || !form.email || !form.phone || !form.city || !form.project_type) {
       alert('Veuillez remplir tous les champs');
       return;
     }
@@ -33,22 +34,22 @@ export default function ContactForm() {
     setStatus('loading');
 
     try {
-      // Insert into Supabase
       const { error } = await supabase
         .from('leads')
         .insert([form]);
 
       if (error) throw error;
 
-      // Send Email with EmailJS
       await emailjs.send(
         'service_5mdb0hj',
         'template_5y1ja3i',
         {
           name: form.name,
+          email: form.email,
           phone: form.phone,
           city: form.city,
           project_type: form.project_type,
+          to_email: form.email,
         },
         'KDQ3Jj6U6gPxh9eHN'
       );
@@ -57,11 +58,11 @@ export default function ContactForm() {
 
       setForm({
         name: '',
+        email: '',
         phone: '',
         city: '',
         project_type: '',
       });
-
     } catch (err) {
       console.error('SEND ERROR:', err);
       setStatus('error');
@@ -103,7 +104,7 @@ export default function ContactForm() {
               </h3>
 
               <p className="text-gray-600 mb-6">
-                Notre équipe vous contactera rapidement.
+                Un email de confirmation vous a été envoyé. Notre équipe vous contactera rapidement.
               </p>
 
               <button
@@ -129,6 +130,16 @@ export default function ContactForm() {
                   value={form.name}
                   onChange={(e) =>
                     setForm({ ...form, name: e.target.value })
+                  }
+                  className="w-full p-3 border rounded"
+                />
+
+                <input
+                  type="email"
+                  placeholder="Email"
+                  value={form.email}
+                  onChange={(e) =>
+                    setForm({ ...form, email: e.target.value })
                   }
                   className="w-full p-3 border rounded"
                 />
@@ -176,7 +187,7 @@ export default function ContactForm() {
 
                 {status === 'error' && (
                   <p className="text-red-500">
-                    Erreur lors de l'envoi
+                    Erreur lors de l&apos;envoi
                   </p>
                 )}
 
