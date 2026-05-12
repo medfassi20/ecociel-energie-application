@@ -89,7 +89,7 @@ export default function CompanyInfo() {
               <span className="text-emerald-600">
                 énergie solaire
               </span>{" "}
-              à Fès
+              à Fès, Maroc
             </h2>
 
             <p className="text-gray-600 text-lg leading-relaxed mb-6">
