@@ -127,7 +127,7 @@ export default function CompanyInfo() {
                   </p>
 
                   <a
-                    href="https://www.google.com/maps/place/EcoCiel/@33.9610092,-5.0327163,17z"
+                    href="https://www.google.com/maps/place/EcoCiel/@33.9608268,-5.0306644,19z/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-emerald-600 text-sm font-medium hover:underline mt-2 inline-block"
