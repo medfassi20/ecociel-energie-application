@@ -79,4 +79,4 @@ VITE_SUPABASE_ANON_KEY=your-key
 
 ## 👨‍💻 Author
 
-Developed for a solar energy company project using React, Supabase and Vercel.
+Developed for a solar energy company project using React.js, Supabase and Vercel.
