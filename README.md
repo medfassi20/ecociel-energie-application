@@ -10,7 +10,7 @@ A modern web application built for EcoCiel, a solar energy company based in Fez,
 
 ## Preview
 
-<img width="1920" height="952" alt="Hero_page" src="https://github.com/user-attachments/assets/acf8a297-02ef-43da-bad4-e086e1e85667.jpg" />
+<img width="1920" height="952" alt="Hero_page" src="https://github.com/user-attachments/assets/acf8a297-02ef-43da-bad4-e086e1e85667" />
 
 ## 🚀 Project Overview
 
